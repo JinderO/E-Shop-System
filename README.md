@@ -118,7 +118,7 @@ javapublic void applyDiscounts() {
  Add product search and filtering
 
 👨‍💻 Author
-[Your Name] - Java Developer in Training
+Jindřich Ovádek - Java Developer in Training
 
 Demonstrates mastery of advanced OOP principles
 Clean separation of concerns with interface design
