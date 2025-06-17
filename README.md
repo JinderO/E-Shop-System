@@ -40,16 +40,20 @@ Business Logic - Real-world e-commerce calculations
 ├── 📄 Discountable.java (Interface for discount behavior)
 ├── 📄 ShoppingCart.java (Cart management with polymorphism)
 └── 📄 Main.java (Application entry point)
+
 🎯 Key OOP Concepts Demonstrated
 Inheritance Hierarchy
+
 javaProduct (Abstract)
 ├── Electronics implements Discountable
 ├── Books implements Discountable  
 └── Clothing (no discounts)
+
 Polymorphism in Action
 javaArrayList<Product> products = new ArrayList<>();
 // Can store Electronics, Books, Clothing objects
 // Each behaves differently for shipping and discounts
+
 Interface Implementation
 javapublic interface Discountable {
     double calculateDiscount(int quantity);
