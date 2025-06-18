@@ -163,7 +163,3 @@ public void applyDiscounts() {
 - **Polymorphic Collections** - Professional management of diverse object types in unified structures
 
 This project showcases **advanced Java programming skills** including **inheritance hierarchies**, **interface design**, **polymorphic collections**, and **complex business logic implementation** typical of real-world **e-commerce systems**. The implementation demonstrates **enterprise-level thinking** and **scalable design patterns**.
-
----
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
